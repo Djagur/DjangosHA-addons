@@ -3,4 +3,4 @@ addons:
   radicale:
     repository: Djagur/radicale
     target: radicale
-    image: ghcr.io/Djagur/radicale-{arch}
+    image: buhl/radicale-{arch}

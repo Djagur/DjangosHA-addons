@@ -12,7 +12,7 @@ arch:
 startup: services
 webui: 'http://[HOST]:[PORT:5232]/'
 boot: auto
-image: 'Djagur/radicale-{arch}'
+image: 'buhl/radicale-{arch}'
 apparmor: true
 init: false
 stage: experimental
