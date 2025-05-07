@@ -1,0 +1,16 @@
+{
+  "name": "Radicale",
+  "version": "1.0",
+  "slug": "radicale",
+  "description": "Radicale CalDAV/CardDAV server",
+  "startup": "application",
+  "boot": "auto",
+  "init": false,
+  "hassio_api": false,
+  "homeassistant_api": false,
+  "host_network": true,
+  "options": {},
+  "schema": {},
+  "image": "ghcr.io/home-assistant/{arch}-radicale"
+}
+
