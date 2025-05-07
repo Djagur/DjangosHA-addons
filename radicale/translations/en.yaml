@@ -1,0 +1,4 @@
+configuration:
+  boot_message:
+    name: Boot Message
+    description: Radicale has started.
