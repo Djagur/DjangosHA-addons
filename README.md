@@ -1,0 +1,1 @@
+# DjangosHA-addons
